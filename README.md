@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eda</h1>
 <h3 align="center">A passionate software engineering student from Turkey</h3>
 
-- 🔭 I’m currently working on **IOS app using Swift...**
+- 🔭 I’m currently working on **IOS app using Swift.**
 
 - 🌱 I’m currently learning **Swift.**
 
