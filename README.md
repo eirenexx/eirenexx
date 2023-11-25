@@ -1,4 +1,3 @@
-![MasterHead](https://c4.wallpaperflare.com/wallpaper/339/291/634/quote-hello-world-computer-hd-wallpaper-preview.jpg)
 <h1 align="center">Hi 👋, I'm Eda</h1>
 <h3 align="center">A passionate software engineering student from Turkey</h3>
 
