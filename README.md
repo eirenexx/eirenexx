@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eda</h1>
 <h3 align="center">A passionate software engineering student from Turkey</h3>
 
-- 🔭 I’m currently working on **IOS app using Swift.**
+- 🔭 I’m currently working on **Java.**
 
-- 🌱 I’m currently learning **Swift.**
+- 💬 Ask me about **web project development with java!**
 
-- 💬 Ask me about **the latest features in Swift or tips for optimizing iOS app performance!**
-
-- 📫 How to reach me **edavrl16@icloud.com**
+- 📫 How to reach me **edavr16@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
